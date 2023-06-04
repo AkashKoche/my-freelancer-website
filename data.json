@@ -1,0 +1,44 @@
+{
+    "portfolio" : [
+        {
+            "id" : 1,
+            "projectname" : "WebSite Designing",
+            "desc" : "."
+        },
+        {
+            "id" : 2,
+            "projectname" : "Android App Development",
+            "desc" : "."
+        },
+        {
+            "id" : 3,
+            "projectname" : "Apple IOS App Development",
+            "desc" : "."
+        },
+        {
+            "id" : 4,
+            "projectname" : "UI/UX Designing",
+            "desc" : "."
+        },
+        {
+            "id" : 5,
+            "projectname" : "SEO - Search Engine Optimization",
+            "desc" : "."
+        },
+        {
+            "id" : 6,
+            "projectname" : "SalesForces",
+            "desc" : "."
+        },
+        {
+            "id" : 7,
+            "projectname" : "Only Front-End",
+            "desc" : "."
+        },
+        {
+            "id" : 8,
+            "projectname" : "Only Back-End",
+            "desc" : "."
+        }
+    ]
+}
